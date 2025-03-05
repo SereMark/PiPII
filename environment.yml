@@ -1,12 +1,6 @@
 name: PiPII
 channels:
-  - nvidia
-  - pytorch
   - conda-forge
 dependencies:
   - python=3.12
-  - pytorch=2.5.1
-  - pytorch-cuda=12.4
   - numpy
-  - h5py
-  - streamlit
